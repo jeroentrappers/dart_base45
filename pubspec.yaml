@@ -1,6 +1,6 @@
 name: dart_base45
 description: Dart base45 decoding
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/jeroentrappers/dart_base45
 
 environment:
